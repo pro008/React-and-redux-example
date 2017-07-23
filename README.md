@@ -1,12 +1,8 @@
 # README
 
-Here is megamen game, user uses keyboard to control character. The project include a few animations and C# code
+Error when show information
 
-Unity game
-
-Kil enemies
-
-RPG game
+"Action run after render" 
 
 By Vuong Tin Phong
 
